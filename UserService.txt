@@ -2,3 +2,5 @@ Get the user data...
 process the data
 
 create an avatar for user and he/she can customize his/her avatar
+
+login and logout
