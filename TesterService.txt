@@ -1,0 +1,3 @@
+Testing the game before the deploy
+
+give feedback to the developers if there are any bugs
