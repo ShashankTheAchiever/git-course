@@ -1,0 +1,3 @@
+Handling the privacy of all the users in the platform
+
+Manages the services that might be vulnerable 
