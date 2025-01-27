@@ -6,3 +6,5 @@ create an avatar for user and he/she can customize his/her avatar
 login and logout
 
 change 1
+change2
+change3
